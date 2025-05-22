@@ -1,4 +1,39 @@
-## Hi there 👋
+ <h1>Hi, I'm Nkosinathi! <br/><a href="https://github.com/NathiMadlala">CyberSecurity Entry Level</a>, <a href="https://www.linkedin.com/in/Nkosinathi Madlala/">Fiber Optic Technicain </a>
+
+<h2>Aspiring Cybersecurity actively looking for cyber security role. I continue to learn & build my skills in cyber security in both SOC area of cyber security.</h2>
+
+- <b>Training and Certification </b>
+  - CCNA -Praciting Troubleshooting, Configuration of Routers and Switches using Packet Tracer
+  - MCSE -Praciting Active Directory
+  - Linux -Praciting on [Ubuntu and Kali](https://tryhackme.com/nkosinathimadlala/AD_PS)
+- <b>Professional Experience</b>
+  - Initial consult with client <b>
+  - Data entry using ClickMobile database IT system
+  - Basic IT troubleshooting for Home connection system
+  - Networking -Firewalls
+- <b>Practical Projects</b>
+  - Home Lab
+  - [Security Information and Event Management](https://tryhackme.com/nkosinathimadlala/AD_PS)
+    
+
+<h2> Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/nkosinathimadlala/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **NathiMadlala/NathiMadlala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
