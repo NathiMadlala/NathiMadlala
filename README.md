@@ -13,7 +13,7 @@
   - Networking -Firewalls
 - <b>Practical Projects</b>
   - Home Lab
-  - [Security Information and Event Management](https://tryhackme.com/nkosinathimadlala/AD_PS)
+  - Security Information and Event Management SIEM using TryHackMe
     
 
 <h2> Connect with me:</h2>
