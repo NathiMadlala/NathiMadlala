@@ -7,7 +7,7 @@
   - MCSE -Praciting Active Directory
   - Linux -Praciting on [Ubuntu and Kali](https://tryhackme.com/nkosinathimadlala/AD_PS)
 - <b>Professional Experience</b>
-  - Initial consult with client <b>
+  - Initial consult with client 
   - Data entry using ClickMobile database IT system
   - Basic IT troubleshooting for Home connection system
   - Networking -Firewalls
