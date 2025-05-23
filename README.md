@@ -13,7 +13,8 @@
   - Networking -Firewalls
 - <b>Practical Projects</b>
   - Home Lab
-  - Security Information and Event Management SIEM using TryHackMe
+  - Security Information and Event Management-SIEM: TryHackMe(Splunk)
+  - Dynamic Attchment Analysis & Sandboxing: TryHackMe(ANYRUN)
     
 
 <h2> Connect with me:</h2>
