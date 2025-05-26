@@ -15,6 +15,7 @@
   - Home Lab
   - Security Information and Event Management-SIEM: TryHackMe(Splunk)
   - Dynamic Attchment Analysis & Sandboxing: TryHackMe(ANYRUN)
+  - Automated Email Analysis: TCM Securuty(PhishTool)
     
 
 <h2> Connect with me:</h2>
