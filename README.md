@@ -50,8 +50,9 @@
 </div>
 
 ## Projects
-- Detection Lab
+- Detection Lab https://https://kc7cyber.com/nathim0784/
 - SOC Automation Project: https://linkedin.com/in/nkosinathi-madlala/
+- 
 
 
 <!--
