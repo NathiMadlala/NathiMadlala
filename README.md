@@ -52,7 +52,9 @@
 ## Projects
 - Detection Lab //https://kc7cyber.com/nathim0784/
 - SOC Automation Project: https://linkedin.com/in/nkosinathi-madlala/
-- 
+- 30 Days Challenges as SOC Analyst 101
+  
+  
 
 
 <!--
