@@ -13,10 +13,10 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://TryHackMe.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://TryHackMe.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab <a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>| 
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab<a href="https://academy.tcm-sec.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab<a href="https://academy.tcm-sec.com">Detection Lab</a>|
+| Case Management with TheHive                  | SOC Automation Lab<a href="https://academy.tcm-sec.com">Detection Lab</a>| 
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab<a href="https://academy.tcm-sec.com">Detection Lab</a>|
 
 ## Tools
 
@@ -51,6 +51,7 @@
 
 ## Projects
 - Detection Lab //https://kc7cyber.com/nathim0784/
+- Detection Lab https://academy.tcm-sec.com>D/nkosinathi-madlala/
 - SOC Automation Project: https://linkedin.com/in/nkosinathi-madlala/
 - 30 Days Challenges as SOC Analyst 101
   
