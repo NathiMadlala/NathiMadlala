@@ -13,10 +13,10 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://TryHackMe.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://TryHackMe.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab <a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
+| Case Management with TheHive                  | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>| 
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab<a href="https://https://academy.tcm-sec.com">Detection Lab</a>|
 
 ## Tools
 
