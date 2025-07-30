@@ -51,7 +51,7 @@
 
 ## Projects
 - Detection Lab //https://kc7cyber.com/nathim0784/
-- Detection Lab https://academy.tcm-sec.com/nkosinathi-madlala/
+- Detection Lab https://academy.tcm-sec.com/courses/nkosinathi-madlala/
 - SOC Automation Project: https://linkedin.com/in/nkosinathi-madlala/
 - 30 Days Challenges as SOC Analyst 101
   
