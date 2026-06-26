@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-777BB4?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/bage/-Nessus-4B275F?&style=for-the-badge&log=Nessus&logoColor=white" />
+    
 </div>
 
 ## Endpoint
