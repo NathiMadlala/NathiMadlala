@@ -46,15 +46,15 @@
 <div>
 <img src="https://img.shields.io/badge/-National Certificate For Supporting System%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-MCSE-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTia-Security+%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTia-CySA+-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - Detection Lab https://kc7cyber.com/nathim0784/
 - Detection Lab https://academy.tcm-sec.com/courses/nkosinathi-madlala/
 - SOC Automation Project: https://linkedin.com/in/nkosinathi-madlala/
-- 30 Days Challenges as SOC Analyst 
+- 120 Days Challenges as SOC Analyst 
   
   
 
