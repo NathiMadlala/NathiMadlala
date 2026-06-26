@@ -1,7 +1,7 @@
  <h1>Hello, I'm Nkosinathi!
 <a href="https://linkedin.com/nkosinathi-madlalaProfile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h3>I change career from Fiber Technician to Cybersecurity  with a profound interest in technology and a dedication to solving complex problems.</h3>
+<h3>I change career from Fiber Technician to Cybersecurity BlueTeam with a profound interest in technology and a dedication to solving complex problems.</h3>
 
 ## Objective
 
