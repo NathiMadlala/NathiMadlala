@@ -5,7 +5,7 @@
 
 ## Objective
 
-<h3>My journey in Information Technology(IT) has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.</h3>
+<h3>My journey in Information Technology(IT) has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.</h3>
 
 ## Skill
 
