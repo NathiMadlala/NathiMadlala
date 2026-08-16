@@ -1,5 +1,5 @@
  <h1>Hello, I'm Nkosinathi!
-<a href="https://linkedin.com/nkosinathi-madlalaProfile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/nkosinathi-madlala-12b8987b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h3> Six years of experience in the Fibre-optic Techician industry, gaining valuable transferable skills in relationship building strategic planning and project management. Strong track record of quickly learning & adapting in new complex situations. Eager to leverage a diverse range of talents in a new & engaging professional setting. Committed to lifelong learning & personal development.</h3>
 
